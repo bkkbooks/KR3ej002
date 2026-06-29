@@ -1,0 +1,526 @@
+canonical_identifier: bkk:krp/KR3ej002/v1
+canonical_location: https://kanripo.org/bkk/KR3ej002/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 兒科要略
+  identifiers:
+    krp: KR3ej002
+  tags:
+    kr-categories: KR3ej
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej002.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej002_000.yaml, hash: 'sha256:f659ce85112925544ecec6a1318a50796a3fc27f190570298ba7a8c7d13d9726'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej002_000.markers.yaml, hash: 'sha256:fcfd71a33e604dc7d00fe51e97bbdb5c1da7f9b4227d0ada6a59aaf3dfa3cf6d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 561
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 7458
+  label: 第一章出生前後
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d3d2
+    span:
+    - body
+    - 7
+    - 1760
+  label: 第一節胎中之教養
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d3d3
+    span:
+    - body
+    - 1760
+    - 3302
+  label: 第二節臨產之處置
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d3d4
+    span:
+    - body
+    - 3302
+    - 4038
+  label: 第三節初生之去毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d3d5
+    span:
+    - body
+    - 4038
+    - 6173
+  label: 第四節急症之療治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d3d6
+    span:
+    - body
+    - 6173
+    - 7458
+  label: 第五節兒科之診法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d4.h1s1
+    span:
+    - body
+    - 7458
+    - 11022
+  label: 第二章養育方法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d4d2
+    span:
+    - body
+    - 7465
+    - 9856
+  label: 第一節哺乳時期
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d4d3
+    span:
+    - body
+    - 9856
+    - 11022
+  label: 第二節孩童時期
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d5.h1s1
+    span:
+    - body
+    - 11022
+    - 39562
+  label: 第三章兒科特徵
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d5d2
+    span:
+    - body
+    - 11029
+    - 12672
+  label: 第一節臍風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d5d3
+    span:
+    - body
+    - 12672
+    - 13549
+  label: 第二節丹毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d5d4
+    span:
+    - body
+    - 13549
+    - 15843
+  label: 第三節口症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d5d5
+    span:
+    - body
+    - 15843
+    - 16632
+  label: 第四節變蒸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d5d6
+    span:
+    - body
+    - 16632
+    - 22206
+  label: 第五節弱症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d5d7
+    span:
+    - body
+    - 22206
+    - 35686
+  label: 第六節疳證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d5d8
+    span:
+    - body
+    - 35686
+    - 39562
+  label: 第七節雜證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d6.h1s1
+    span:
+    - body
+    - 39562
+    - 65206
+  label: 第四章痧痘論治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d6d2
+    span:
+    - body
+    - 39569
+    - 46077
+  label: 第一節痧疹概要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d6d3
+    span:
+    - body
+    - 46077
+    - 47262
+  label: 第二節痧證分類
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d6d4
+    span:
+    - body
+    - 47262
+    - 49019
+  label: 第三節痧後證治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d6d5
+    span:
+    - body
+    - 49019
+    - 62537
+  label: 第四節痘證概要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d6d6
+    span:
+    - body
+    - 62537
+    - 63863
+  label: 第五節痘證分類
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d6d7
+    span:
+    - body
+    - 63863
+    - 65206
+  label: 第六節痘後證治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d7.h1s1
+    span:
+    - body
+    - 65206
+    - 72431
+  label: 第五章諸驚論治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d7d2
+    span:
+    - body
+    - 65213
+    - 65592
+  label: 第一節驚風概說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d7d3
+    span:
+    - body
+    - 65592
+    - 68110
+  label: 第二節急驚概要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d7d4
+    span:
+    - body
+    - 68110
+    - 70283
+  label: 第三節慢驚概要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d7d5
+    span:
+    - body
+    - 70283
+    - 72431
+  label: 第四節類驚概要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d8.h1s1
+    span:
+    - body
+    - 72431
+    - 81724
+  label: 第六章咳嗽論治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d8d2
+    span:
+    - body
+    - 72438
+    - 72771
+  label: 第一節咳嗽概說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d8d3
+    span:
+    - body
+    - 72771
+    - 74879
+  label: 第二節外感咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d8d4
+    span:
+    - body
+    - 74879
+    - 79723
+  label: 第三節內傷咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d8d5
+    span:
+    - body
+    - 79723
+    - 81724
+  label: 第四節雜證咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d9.h1s1
+    span:
+    - body
+    - 81724
+    - 87614
+  label: 第七章吐瀉論治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d9d2
+    span:
+    - body
+    - 81731
+    - 82166
+  label: 第一節吐瀉概說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d9d3
+    span:
+    - body
+    - 82166
+    - 83839
+  label: 第二節吐證述要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d9d4
+    span:
+    - body
+    - 83839
+    - 85524
+  label: 第三節瀉證述要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d9d5
+    span:
+    - body
+    - 85524
+    - 87614
+  label: 第四節吐瀉述要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d10.h1s1
+    span:
+    - body
+    - 87614
+    - 93208
+  label: 第八章瘧痢論治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d10d2
+    span:
+    - body
+    - 87621
+    - 88157
+  label: 第一節瘧痢概說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d10d3
+    span:
+    - body
+    - 88157
+    - 90623
+  label: 第二節瘧疾述要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d10d4
+    span:
+    - body
+    - 90623
+    - 93208
+  label: 第三節痢疾述要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d11.h1s1
+    span:
+    - body
+    - 93208
+    - 96962
+  label: 第九章雜證論治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d11d2
+    span:
+    - body
+    - 93215
+    - 93883
+  label: 第一節二便下血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d11d3
+    span:
+    - body
+    - 93883
+    - 94406
+  label: 第二節吐血嘔血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d11d4
+    span:
+    - body
+    - 94406
+    - 95530
+  label: 第三節身體腫脹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d11d5
+    span:
+    - body
+    - 95530
+    - 95951
+  label: 第四節疝氣偏墜
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej002_jc_000-d11d6
+    span:
+    - body
+    - 95951
+    - 96962
+  label: 第五節小兒瘡瘍
+  type: section
+  level: 2
+hash: sha256:08a964276748a682f43bc96f41466d60269944898c26db2636b9430196a31473
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
