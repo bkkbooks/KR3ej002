@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej002_000.yaml, hash: 'sha256:f659ce85112925544ecec6a1318a50796a3fc27f190570298ba7a8c7d13d9726'}
+  - {seq: 0, filename: KR3ej002_000.yaml, hash: 'sha256:cb6b47b91a3888e3cedf952032b9e9670c33af70bd98daaef8409dbc131d5cab'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej002_000.markers.yaml, hash: 'sha256:fcfd71a33e604dc7d00fe51e97bbdb5c1da7f9b4227d0ada6a59aaf3dfa3cf6d'}
+  - {seq: 0, role: markers, filename: assets/KR3ej002_000.markers.yaml, hash: 'sha256:91ab9d0f72d54d92d1eab8dcb24c85e3446ef375fe595cb2db292980f6d9d150'}
 table_of_contents:
 - ref:
     seq: 0
@@ -520,7 +520,4 @@ table_of_contents:
   label: 第五節小兒瘡瘍
   type: section
   level: 2
-hash: sha256:08a964276748a682f43bc96f41466d60269944898c26db2636b9430196a31473
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:279b1bbb0478990c0031f5230a23d7a43e735b9c10aaa480c8b0d92722d53709
