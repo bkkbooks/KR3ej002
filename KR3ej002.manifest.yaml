@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej002/v1
 canonical_location: https://kanripo.org/bkk/KR3ej002/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 兒科要略
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej002_000.yaml, hash: 'sha256:cb6b47b91a3888e3cedf952032b9e9670c33af70bd98daaef8409dbc131d5cab'}
+  - {seq: 0, filename: KR3ej002_000.yaml, hash: 'sha256:e12a15f3dc5b359bc5f9b217ac877d89889f8e0b4df13cd38953cd3f1c7c75c2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej002_000.markers.yaml, hash: 'sha256:91ab9d0f72d54d92d1eab8dcb24c85e3446ef375fe595cb2db292980f6d9d150'}
+  - {seq: 0, role: markers, filename: assets/KR3ej002_000.markers.yaml, hash: 'sha256:2e125affdd3da4da577804ae3e966e52d8e40b9ffa3ff3e368e0377be289b784'}
 table_of_contents:
 - ref:
     seq: 0
@@ -520,4 +520,7 @@ table_of_contents:
   label: 第五節小兒瘡瘍
   type: section
   level: 2
-hash: sha256:279b1bbb0478990c0031f5230a23d7a43e735b9c10aaa480c8b0d92722d53709
+hash: sha256:47b4b52b84973b49ac8bdff392bc07dca0ed64e40304c19f461733b35ecc04da
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
